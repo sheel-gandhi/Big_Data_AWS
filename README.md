@@ -16,7 +16,9 @@ Analyzing Amazon reviews via ETL process using PySpark
 
 SellBy, a company pays a small fee to Amazon and provide products to Amazon Vine members who are then required to publish a review. Amazon Vine program is a service that allows manufacturers and publishers to receive reivews for their products. We are tasked to analyze Amazon reviews written by members of the paid Amazon Vine program. For this analysis we have selected Toys category. 
 
-Data has been collected from: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv.gz. The data will be processed in Google Colaboratory using PySpark. Data will undergo detailed ETL process and loaded in PostgresSQL using Amazon's AWS RDS database.
+Data has been collected from: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv.gz. 
+
+The data will be processed in Google Colaboratory using PySpark. Data will undergo detailed ETL process and loaded in PostgresSQL using Amazon's AWS RDS database.
 
 ## Analysis
 
